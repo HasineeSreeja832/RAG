@@ -144,3 +144,11 @@ Open the URL Streamlit prints (typically `http://localhost:8501`).
 ## Tech stack
 
 `Python` · `Streamlit` · `LangChain` · `Chroma` · `Ollama` (`llama3.2`, `nomic-embed-text`)
+## Out Put
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/9f1185f7-c797-4417-8716-6eb0abfcc4cb" />
+<img width="1356" height="719" alt="image" src="https://github.com/user-attachments/assets/876a51c8-b97d-4cdd-9d58-33482a5f3c63" />
+
+
+
+
+
